@@ -1,6 +1,6 @@
 # main text of home
 name: dushi sll
-bio: An Android developer 
+bio: A day dreaming code farming 
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://www.baidu.com
 
-url: https://dushisll.github.io
+url: https://www.石靓靓.cn
 # your url: http://USERNAME.github.io
 
 permalink: /:title/

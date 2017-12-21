@@ -61,12 +61,12 @@ authors:
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
+    垚圭土:
+        name: 垚圭土
+        bio: 八字缺土，补一堆的土~~
         external-image: false
         picture: assets/images/james.jpg
-        twitter: jamesfoster
+        weibo: shiliang20101759
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

@@ -58,6 +58,14 @@
             <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
         </a>
     {% endif %}
+
+    
+    {% if site.weibo %}
+        <a class="link" data-title="{{ site.weibo }}" href="https://weibo.com/{{ site.weibo }}">
+            <svg class="icon icon-weibo"><use xlink:href="#icon-weibo"></use></svg>
+        </a>
+    {% endif %}
+
     
     {% if site.stackoverflow %}
         <a class="link" data-title="stackoverflow.com/users/{{ site.stackoverflow }}" href="http://stackoverflow.com/users/{{ site.stackoverflow }}" target="_blank">
@@ -100,4 +108,5 @@
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
+
 </div>

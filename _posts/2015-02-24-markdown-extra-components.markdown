@@ -11,7 +11,7 @@ tag:
 category: blog
 author: 垚圭土
 description: Markdown summary with different options
-# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://tva1.sinaimg.cn/crop.0.0.638.638.180/6ee42680jw8eqxgd4y9tzj20hq0hqwfk.jpg" height="20" width="20" align="absmiddle">'
 ---
 
 ## Summary:

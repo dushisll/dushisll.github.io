@@ -65,7 +65,8 @@ authors:
         name: 垚圭土
         bio: 八字缺土，补一堆的土~~
         external-image: false
-        picture: assets/images/james.jpg
+        #picture: assets/images/james.jpg
+        picture: https://tva1.sinaimg.cn/crop.0.0.638.638.180/6ee42680jw8eqxgd4y9tzj20hq0hqwfk.jpg
         weibo: shiliang20101759
 
 # do you want a larger site? change the option below

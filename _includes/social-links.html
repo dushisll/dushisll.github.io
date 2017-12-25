@@ -11,6 +11,12 @@
         </a>
     {% endif %}
 
+    {% if site.csdn %}
+        <a class="link" data-title="{{ site.csdn }}" href="http://blog.csdn.net/{{ site.csdn }}">
+            <svg class="icon icon-csdn"><use xlink:href="#icon-csdn"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.google %}
         <a class="link" data-title="plus.google.com/+{{ site.google }}" href="http://plus.google.com/+{{ site.google }}" target="_blank">
             <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
@@ -63,12 +69,6 @@
     {% if site.weibo %}
         <a class="link" data-title="{{ site.weibo }}" href="https://weibo.com/{{ site.weibo }}">
             <svg class="icon icon-weibo"><use xlink:href="#icon-weibo"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.csdn %}
-        <a class="link" data-title="{{ site.csdn }}" href="http://blog.csdn.net/{{ site.csdn }}">
-            <svg class="icon icon-csdn"><use xlink:href="#icon-csdn"></use></svg>
         </a>
     {% endif %}
 

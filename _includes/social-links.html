@@ -66,6 +66,12 @@
         </a>
     {% endif %}
 
+    {% if site.csdn %}
+        <a class="link" data-title="{{ site.csdn }}" href="http://blog.csdn.net/{{ site.csdn }}">
+            <svg class="icon icon-csdn"><use xlink:href="#icon-csdn"></use></svg>
+        </a>
+    {% endif %}
+
     
     {% if site.stackoverflow %}
         <a class="link" data-title="stackoverflow.com/users/{{ site.stackoverflow }}" href="http://stackoverflow.com/users/{{ site.stackoverflow }}" target="_blank">
